@@ -1,0 +1,55 @@
+.head
+{
+   height:80px;
+   background-color:darkorange;
+}
+h1{
+  display: inline;
+}
+
+.note
+{
+  height:100px;
+  width:500px;
+  margin-top: 100px;
+  margin-left: 400px;
+  border-radius: 6px;
+  box-shadow: 2px 2px dimgray;
+
+border-color: dimgray;
+}
+textarea
+{outline: none;
+   width:490px;
+   margin-top: 10px;
+   height:35px;
+   border-style: none;border-width: 0px;
+}
+
+.body{
+  height:300px;
+}
+input{
+  outline: none;
+  font-weight: bold;
+  font-size: larger;
+  width:490px;
+ 
+  border-style: none;
+  border-width: 0px;
+  height:40px;
+ 
+}
+#item1
+{
+  height:100px;
+  width:300px;
+
+  margin-top: 30px;
+  margin-left: 20px;
+  border-radius: 6px;
+  box-shadow: 2px 2px dimgray;
+  display: inline;
+  background-color: goldenrod;
+
+}
